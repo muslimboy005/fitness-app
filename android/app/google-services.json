@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166027572733",
+    "project_id": "fitnes-homework",
+    "storage_bucket": "fitnes-homework.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166027572733:android:461ff256fb47a6c7ab9594",
+        "android_client_info": {
+          "package_name": "com.example.flutter_86_vazifa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPV7_0HsDOBpWylLnwIr9AP7JaYz1lf-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

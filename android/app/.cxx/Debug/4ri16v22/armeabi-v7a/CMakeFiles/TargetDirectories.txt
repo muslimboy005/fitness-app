@@ -1,0 +1,2 @@
+/home/akobir/Downloads/AmirSaidbek Murodov-flutter_86_vazifa/flutter_86_vazifa/android/app/.cxx/Debug/4ri16v22/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/akobir/Downloads/AmirSaidbek Murodov-flutter_86_vazifa/flutter_86_vazifa/android/app/.cxx/Debug/4ri16v22/armeabi-v7a/CMakeFiles/rebuild_cache.dir
